@@ -23,9 +23,9 @@ repository               : "dotdatauw/dotdatauw.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "dotData DatData Science Club is a UW Madison student organization focused on promoting education and discussion around data science, big data, and machine learning technologies and practices.a Science Club"
+  name             : "dotData DatData Science Club"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "dotData DatData Science Club is a UW Madison student organization focused on promoting education and discussion around data science, big data, and machine learning technologies and practices.a Science Club"
   location         : "Madison, WI"
   employer         : 
   uri              : # URL
